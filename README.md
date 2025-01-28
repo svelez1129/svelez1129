@@ -42,10 +42,10 @@ Check out my detailed resume website here: [Sergio's Resume](https://svelez1129.
 
 
 ## 🎓 Favorite Class  
-- **Computer Architecture (6.1910)**: This class has been my favorite because it deepens my understanding of how computers work at a fundamental level, connecting theory with the practical aspects of hardware design.
+- **Computer Architecture (6.1910)**: This class has been my favorite because it deepened my understanding of how computers work at a fundamental level, connecting theory with the practical aspects of hardware design.
 
 ## 🧠 Most Useful Class  
-- **Algorithms and Data Structures (6.1210)**: This class has been the most useful, enhancing my problem-solving skills and understanding of data manipulation and efficiency in software development.
+- **Algorithms and Data Structures (6.1210)**: This class has been the most useful, enhancing my problem-solving skills and understanding of data manipulation and efficiency in software development, it has also been very useful for coding interviews.
 
 ## ⚡ Fun Facts
 
