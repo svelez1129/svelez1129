@@ -52,7 +52,7 @@ Check out my detailed resume website here: [Sergio's Resume](https://svelez1129.
 - 🎮 Platinumed every souls game on PS5, including Elden Ring
 - 🧩 Built a video game on GameMaker Studio 2
 - ☕ Love coffee
-- 💹 Enjoy learning about investing
+- 💹 Enjoy learning about investments
 - 📺 Love anime, particularly One Piece
 
 ## 📬 Let's Connect!
