@@ -9,7 +9,7 @@
 Hello! My name is Sergio Velez, an undergrad at MIT studying Computer Science and Engineering(6-3), with a minor in Economics(14). I love
 computer science because of my interest for problem-solving and because computer science gives me the tools to build any application I want
 for any use-case I need. In particular, I am interested in software engineering, machine learning, and computer systems. I am also studying
-economics because of my interest in financial markets and understanding how the world works for an economic point of view.
+economics because of my interest in financial markets and understanding how the world works from an economic point of view.
 
 ## 📄 Resume Website  
 Check out my detailed resume website here: [Sergio's Resume](https://svelez1129.github.io/sergio-resume/)
