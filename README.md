@@ -8,20 +8,6 @@
 
 ## 👋 About Me
 
-\```python
-class SergioVelez:
-    def __init__(self):
-        self.education = "BS in Computer Science & Engineering @ MIT"
-        self.minor = "Economics"
-        self.gpa = 4.6
-        self.skills = {
-            "languages": ["Python", "JavaScript/TypeScript", "C/C++", "Java"],
-            "technologies": ["React", "PostgreSQL", "MongoDB", "Figma", "REST APIs"],
-            "practices": ["CI/CD", "Unit Testing", "Performance Optimization"]
-        }
-        self.languages = ["English (Native)", "Spanish (Native)"]
-\```
-
 ## 📚 Education
 
 **Massachusetts Institute of Technology** (2023-2027)  
