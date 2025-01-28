@@ -49,7 +49,6 @@ Check out my detailed resume website here: [Sergio's Resume](https://svelez1129.
 
 ## ⚡ Fun Facts
 
-ON FUN FACTS:
 - 🎮 Platinumed every souls game on PS5, including Elden Ring
 - 🧩 Built a video game on GameMaker Studio 2
 - ☕ Love coffee
