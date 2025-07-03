@@ -11,8 +11,6 @@ computer science because of my interest for problem-solving and because computer
 for any use-case I need. In particular, I am interested in software engineering, machine learning, and computer systems. I am also studying
 economics because of my interest in financial markets and understanding how the world works from an economic point of view.
 
-## 📄 Resume Website  
-Check out my detailed resume website here: [Sergio's Resume Website](https://svelez1129.github.io/sergio-resume/)
 
 ## 🛠️ Technical Arsenal
 
